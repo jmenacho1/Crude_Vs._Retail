@@ -1,7 +1,22 @@
-# Assessing impact of rallies in Crude on the retail sector
-Crude 10% rallies and its effect on Retail Stocks blaahh
-### Predicting MLB Batting Averages using Machine Learning and Angle Triangulation
+# Assessing the Impact of 10% Rallies in Crude on the Retail Sector
+(The entire Code block is higher up on this GitHub web page.) Link here: ????
+## This exercise seeks to use Data Science for Tactical Trading purposes in hopes of discovering the best points of entry for trades.
+## _Questions asked:_ 
+
+### Over the last 10 years, how many times has crude rallied 10% or more within a window of 5 consecutive trading days?  Ans. 53
+### What has been the average percentage move in those 5-day windows? Ans. 15.1%
+### What has been the average percentage move in those 5-day windows? Ans. 15.1%
+### What has been the resulting average 10-day rolling performance of (XLP minus XLY) in those 53 instances?  Ans.  -1.8%
+### What has been the resulting average 30-day rolling performance of (XLP minus XLY) in those 53 instances?  Ans.  -2.8%
+
+
+
 ![firstimage](/images/object_angle_head.png)
+
+
+
+
+What has been the average percentage move in those 5-day windows? Ans. 15.1%
 ## _Overview_
 <p> The overall objective for this project was to gain a greater insight into the body mechanics a major league
   baseball player uses to optimize power and efficiency in their swing based on the initial batting stance and calculating
