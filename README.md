@@ -11,7 +11,7 @@
 <p>4) What has been the resulting average 30-day rolling performance of the XLP minus the XLY in those 53 instances?  Ans.  -2.7%
 
 ## _Import Libraries & Data Packages_
-![firstimage](/images/crude_retail_1.jpg)
+![firstimage](/Images/crude_retail_1.jpg)
 
 
 ## _Cleaned Data in Dataframe Format_
