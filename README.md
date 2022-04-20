@@ -1,6 +1,6 @@
 # Assessing the Impact of 10% Rallies in Crude on the Retail Sector
 
-<p>(The entire Code block is higher up on this GitHub web page "Code..." or [here](https://github.com/jmenacho1/Crude_Vs._Retail/blob/main/Code_Crude_XLP_XLY.ipynb)
+<p>(The entire Code block is higher up on this GitHub web page "Code..." or [https://github.com/jmenacho1/Crude_Vs._Retail/blob/main/Code_Crude_XLP_XLY.ipynb]
 <p>This exercise seeks to use Data Science for Tactical Trading purposes in hopes of discovering the best points of entry for trades.
 
 ## _Questions asked_ 
@@ -13,7 +13,7 @@
 ## _Import Libraries & Data Packages_
 ![firstimage](/Images/crude_retail_1.jpg)
 
-## _Cleaned Data in Dataframe Format_
+## _Cleaned Data in Pandas Dataframe Format_
 ![secondimage](/Images/crude_retail_2.jpg)
 
 ## _Summary Code and Outputs_ 
