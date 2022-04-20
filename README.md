@@ -13,9 +13,15 @@
 ## _Import Libraries & Data Packages_
 ![firstimage](/Images/crude_retail_1.jpg)
 
-
 ## _Cleaned Data in Dataframe Format_
 ![secondimage](/Images/crude_retail_2.jpg)
+
+## _Summary Code and Outputs_ 
+![thirdimage](/Images/crude_retail_3.jpg)
+
+
+
+
 
 
 
