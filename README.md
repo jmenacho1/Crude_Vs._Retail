@@ -9,7 +9,7 @@
 ### 4) What has been the resulting average 30-day rolling performance of (XLP minus XLY) in those 53 instances?  Ans.  -2.7%
 
 
-![firstimage](/crude_retail_1.png)
+![firstimage](crude_retail_1.png)
 
 
 
