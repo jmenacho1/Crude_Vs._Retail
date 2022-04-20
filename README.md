@@ -15,7 +15,7 @@
 
 
 ## _Cleaned Data in Dataframe Format_
-
+![secondimage](/Images/crude_retail_2.jpg)
 
 
 
